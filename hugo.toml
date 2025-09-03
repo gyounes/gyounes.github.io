@@ -2,3 +2,35 @@ baseURL = 'https://gyounes.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hello-friend-ng'
+
+[params]
+  homeSubtitle = "Software Engineer | Systems & Cloud"
+  defaultTheme = "dark"   # options: "light", "dark", "auto"
+
+  [params.favicon]
+    mask = "favicon.svg"
+    msapplication = "favicon.png"
+    ico = "favicon.ico"
+
+  # Social links (these appear in header/footer depending on theme layout)
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/gyounes"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/georges-younes-953155126/"
+
+# Main menu
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 20
