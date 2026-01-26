@@ -1,11 +1,14 @@
 baseURL = 'https://gyounes.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Georges Younes'
 theme = 'hello-friend-ng'
 
 [params]
-  homeSubtitle = "Software Engineer | Systems & Cloud"
-  defaultTheme = "dark"   # options: "light", "dark", "auto"
+  homeSubtitle = "Software Engineer | Distributed Systems"
+  defaultTheme = "dark"
+  
+  [params.colors]
+    accent = "#007ec2ff"  # Your preferred color
 
   [params.favicon]
     mask = "favicon.svg"

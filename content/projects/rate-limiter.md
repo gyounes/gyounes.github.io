@@ -28,6 +28,9 @@ Distributed rate limiter with Redis backend, automatic failover, and comprehensi
 - Metrics endpoint for monitoring
 - Comprehensive error handling
 
+## What I Learned
+Implementing this taught me the importance of graceful degradation - the permanent fallback to in-memory storage keeps the service available even when Redis fails, though at the cost of distributed state. In production, I'd use a circuit breaker pattern for automatic recovery.
+
 ## Links
 - [GitHub Repository](https://github.com/gyounes/rate-limiter)
 - [Documentation](https://github.com/gyounes/rate-limiter#readme)

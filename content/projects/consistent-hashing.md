@@ -21,5 +21,8 @@ High-performance library for distributing keys across dynamic node sets with min
 - Visualization of key distribution
 - Efficient O(log N) lookups using bisect
 
+## What I Learned
+This project connected my PhD research in distributed systems to practical implementation - seeing how theory (consistent hashing minimizes key movement) translates to real performance gains (only ~20% keys moved when adding nodes vs 80-100% with naive hashing).
+
 ## Links
 - [GitHub Repository](https://github.com/gyounes/consistent-hashing)
