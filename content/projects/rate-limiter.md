@@ -1,6 +1,6 @@
 ---
 title: "Distributed Rate Limiter"
-date: 2026-01-26
+date: 2025-10-08
 draft: false
 weight: 1
 ---

@@ -4,7 +4,7 @@ title = 'Georges Younes'
 theme = 'hello-friend-ng'
 
 [params]
-  homeSubtitle = "Software Engineer | Distributed Systems"
+  homeSubtitle = "Senior Software Engineer | PhD in Distributed Systems"
   defaultTheme = "dark"
   
   [params.colors]

@@ -4,7 +4,7 @@ title: "About Me"
 
 # Hi, I'm Georges Younes 👋
 
-Software engineer specializing in **distributed systems** and **backend infrastructure**.
+Senior Software engineer specializing in **distributed systems** and **backend infrastructure**.
 
 ## What I Do
 Building production-ready systems with Go and Python. Experience with Redis, Docker, Kubernetes, and cloud infrastructure.
