@@ -19,7 +19,7 @@ Building production-ready systems with Go and Python. Experience with Redis, Doc
 - Building portfolio projects: rate limiters, task queues, consistent hashing
 
 ## Technical Skills
-- **Languages:** Python, Go, Java
+- **Languages:** Python, Go, Erlang
 - **Infrastructure:** Docker, Kubernetes, Redis, PostgreSQL
 - **Cloud:** AWS, distributed systems patterns
 - **Focus:** API design, rate limiting, monitoring, observability
