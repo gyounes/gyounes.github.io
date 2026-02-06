@@ -25,6 +25,7 @@ Building production-ready systems with Go and Python. Experience with Redis, Doc
 - **Focus:** API design, rate limiting, monitoring, observability
 
 ## Recent Projects
+- [LangGraph Research Agent](/projects/langgraph-research-agent/) - Intelligent agent with conditional routing using LangGraph
 - [Distributed Rate Limiter](/projects/rate-limiter/) - Production-ready API rate limiting with Redis backend
 - [Consistent Hashing Library](/projects/consistent-hashing/) - Minimal key redistribution for dynamic node sets
 
